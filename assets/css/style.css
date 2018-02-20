@@ -1,8 +1,9 @@
 .jumbotron {
   margin-top: 20px;
-  background-color: #cccccc;
-
-;
+  /* background-color: #cccccc; */
+  background-image: url('../images/train.jpg');
+  background-size: cover;
+  color: white;
 }
 
 body {
